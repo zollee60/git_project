@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Internal;
+using System;
 
 namespace git_project
 {
@@ -7,6 +8,7 @@ namespace git_project
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Valami");
         }
     }
 }
